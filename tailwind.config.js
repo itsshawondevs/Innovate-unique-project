@@ -7,7 +7,7 @@ tailwind.config = {
           black: '#141135',
         },
         maxWidth: {
-            'container': '1179px',
+            'container': '1180px',
         },
         fontFamily: {
             'open': ["'Open Sans', sans-serif;"],

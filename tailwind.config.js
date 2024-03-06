@@ -11,7 +11,9 @@ tailwind.config = {
         },
         fontFamily: {
             'open': ["'Open Sans', sans-serif;"],
-            'paprika': ["'Paprika', system-ui;"]
+            'paprika': ["'Paprika', system-ui;"],
+            'quicksand': ['"Quicksand", sans-serif;'],
+            'nunito': ['"Nunito", sans-serif;']
         },
         backgroundImage: {
             'banner': "url('./images/banner-bg.png')",
